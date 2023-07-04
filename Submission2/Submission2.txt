@@ -1,1 +1,17 @@
+Link to unlisted YouTube video:
+https://www.youtube.com/
 
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/u/0/
+
+Paper title:
+Witscript: A System for Generating Improvised Jokes in a Conversation
+
+Link to the paper:
+https://arxiv.org/abs/2302.02008
+
+Group Number:
+20
+
+Individual Submitter:
+20301041 Md. Abu Bakar Siddique Khan
