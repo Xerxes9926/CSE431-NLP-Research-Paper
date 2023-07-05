@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://www.youtube.com/
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/u/0/
+https://docs.google.com/presentation/d/1b3jWFSDUrn_g5r0dfJMhAcu3J3doEzrY/edit#slide=id.p1
 
 Paper title:
 Witscript: A System for Generating Improvised Jokes in a Conversation
